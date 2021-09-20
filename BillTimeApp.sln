@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillTime", "BillTime\BillTime.csproj", "{64A6183B-EA1C-4153-ADBC-F973DB887A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillTimeLibrary", "BillTimeLibrary\BillTimeLibrary.csproj", "{3C0F918A-15CE-4E05-8C1C-E7901E478E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A6183B-EA1C-4153-ADBC-F973DB887A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A6183B-EA1C-4153-ADBC-F973DB887A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A6183B-EA1C-4153-ADBC-F973DB887A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A6183B-EA1C-4153-ADBC-F973DB887A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C0F918A-15CE-4E05-8C1C-E7901E478E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0F918A-15CE-4E05-8C1C-E7901E478E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0F918A-15CE-4E05-8C1C-E7901E478E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0F918A-15CE-4E05-8C1C-E7901E478E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E85F0DE-2719-4A9D-AB49-F07E336FD70C}
+	EndGlobalSection
+EndGlobal
